@@ -19,11 +19,25 @@ Check if .NET is installed:
 ```bash
 dotnet --version
 
+## Installation & Setup Instructions
+
+### Step 1 — Install .NET 8 SDK
+Download the installer for your OS from the official website:  
+[.NET SDK Download](https://dotnet.microsoft.com/en-us/download)
+
+---
+
+### Step 2 — Verify Installation
+Open terminal/command prompt:
+```bash
+dotnet --version
+
+
 
 **Technology Chosen:**  
 C# (C-Sharp) — a high-level, object-oriented programming language running on the .NET platform.
 
-**Why I Chose It:**  
+**Why I Chose It: **
 - Widely used in industry.  
 - Beginner-friendly yet powerful.  
 - Can be applied in desktop apps, web APIs, game development (Unity), and enterprise systems.  
