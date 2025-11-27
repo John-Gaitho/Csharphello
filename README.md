@@ -18,6 +18,7 @@ It prints a simple message to the console.
 Check if .NET is installed:
 ```bash
 dotnet --version
+```
 
 ## Installation & Setup Instructions
 
