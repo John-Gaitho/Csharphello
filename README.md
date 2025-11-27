@@ -33,7 +33,7 @@ Open terminal/command prompt:
 ```bash
 dotnet --version
 
-
+```
 
 **Technology Chosen:**  
 C# (C-Sharp) — a high-level, object-oriented programming language running on the .NET platform.
@@ -79,6 +79,3 @@ Unity, one of the world’s most popular game engines, uses C# exclusively for s
 **Packages/Dependencies:**  
 - .NET SDK includes C# compiler  
 
-**Verify installation:**  
-```bash
-dotnet --version
