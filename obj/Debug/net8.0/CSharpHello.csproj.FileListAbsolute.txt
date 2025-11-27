@@ -1,0 +1,15 @@
+/home/jgaitho/Csharphello/bin/Debug/net8.0/CSharpHello
+/home/jgaitho/Csharphello/bin/Debug/net8.0/CSharpHello.deps.json
+/home/jgaitho/Csharphello/bin/Debug/net8.0/CSharpHello.runtimeconfig.json
+/home/jgaitho/Csharphello/bin/Debug/net8.0/CSharpHello.dll
+/home/jgaitho/Csharphello/bin/Debug/net8.0/CSharpHello.pdb
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.GeneratedMSBuildEditorConfig.editorconfig
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.AssemblyInfoInputs.cache
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.AssemblyInfo.cs
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.csproj.CoreCompileInputs.cache
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.sourcelink.json
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.dll
+/home/jgaitho/Csharphello/obj/Debug/net8.0/refint/CSharpHello.dll
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.pdb
+/home/jgaitho/Csharphello/obj/Debug/net8.0/CSharpHello.genruntimeconfig.cache
+/home/jgaitho/Csharphello/obj/Debug/net8.0/ref/CSharpHello.dll
